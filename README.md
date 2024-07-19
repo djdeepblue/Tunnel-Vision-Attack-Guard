@@ -1,10 +1,6 @@
 # Tunnel-Vision-Attack-Guard
 A script to detect suspicious DHCP options that might indicate a Tunnel Vision Attack
 
-# TunnelVisionAttack-ChooseWifiAdapter
-
-A script to detect suspicious DHCP options that might indicate a Tunnel Vision Attack.
-
 ## Description
 
 This script captures DHCP packets on a specified network interface and checks for suspicious DHCP options that could be indicative of a Tunnel Vision Attack.
